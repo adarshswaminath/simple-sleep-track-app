@@ -13,7 +13,7 @@ Developed In HTML,CSS,JavaScript
 # Screenshots
 <div>
 <h3># Night Mode</h3>
-<img  height=660px" width="500px" src="scrn1.jpeg"/>
+<img  height="660px" width="500px" src="scrn1.jpeg"/>
 <h3># Day Mode</h3>
-<img height=650px" width="500px" src="scrn2.jpeg"/>
+<img height="650px" width="500px" src="scrn2.jpeg"/>
 </div>
