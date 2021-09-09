@@ -9,7 +9,9 @@ Developed In HTML,CSS,JavaScript
  [+] One Minute Counter <br>
  
 # Screenshots
-<div style="display: flex;">
-<img  height=500px" width="500px" src="scrn1.jpeg"/>
-<img height=500px" width="500px" src="scrn2.jpeg"/>
+<div>
+<h3># Night Mode</h3>
+<img  height=660px" width="500px" src="scrn1.jpeg"/>
+<h3># Day Mode</h3>
+<img height=650px" width="500px" src="scrn2.jpeg"/>
 </div>
